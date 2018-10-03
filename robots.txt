@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://wiki.adire.eu.com/sitemap.xml
