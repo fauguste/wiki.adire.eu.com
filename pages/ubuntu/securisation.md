@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /git/basics.html
+permalink: /ubuntu/securisation.html
 tags: git
 description: Sécurisation des serveurs Ubuntu
 

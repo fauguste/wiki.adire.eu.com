@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /git/basics.html
+permalink: /git/rebase.html
 tags: git rebase
 description: Utilisation de la fonction rebase de git
 title: Rebase
