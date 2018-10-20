@@ -4,7 +4,7 @@
 
 layout: default
 permalink: /solr/documents-enfant-et-parent.html
-tags: git rebase
+tags: solr
 description: Gestion des documents enfants et parents dans solr.
 title: Documents enfant et parent
 menus: solr
