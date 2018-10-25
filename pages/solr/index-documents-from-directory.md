@@ -49,7 +49,7 @@ Il faut créer un fichier `data-config.xml` avec le contenu suivant (voir les co
      Data source de type fichier :
      https://wiki.apache.org/solr/DataImportHandler#FileListEntityProcessor
     -->
-  <dataSource type="FileDataSource"/>
+  <dataSource type="BinFileDataSource"/>
   <document>
     <!--
        base dir est à adapter.
