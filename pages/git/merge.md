@@ -1,14 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 permalink: /git/merge/
 tags: git
 description: Mise à jour d'une branche à partir du master.
 
-title: Basics
-menus: git merge
+title: Merge
+menus: git
 ---
 ## Merge
 
