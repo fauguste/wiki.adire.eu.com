@@ -5,7 +5,7 @@ permalink: /git/branch/
 tags: git
 description: Commandes basics de gestion des branches
 
-title: Basics
+title: Branch
 menus: git
 ---
 # git branch
