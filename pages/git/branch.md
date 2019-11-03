@@ -15,6 +15,6 @@ menus: git
 
     git branch -D BRANCH_NAME
 
-## Suppression des toutes les branches locales n'existant plus sur le serveur
+## Suppression des toutes les branches locales
 
     git branch | grep -v "master" | xargs git branch -D
