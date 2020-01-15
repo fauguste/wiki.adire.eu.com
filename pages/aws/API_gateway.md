@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /aws/api_gateway.html
+permalink: /aws/api_gateway/
 tags: git
 description: Note sur l'utilisation d'AWS gateway.
 

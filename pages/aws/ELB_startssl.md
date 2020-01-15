@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /aws/aelb_startssl.html
+permalink: /aws/aelb_startssl/
 tags: git
 description: Utilisation des certificats startssl avec un ELB.
 

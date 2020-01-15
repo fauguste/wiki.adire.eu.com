@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /git/basics.html
+permalink: /git/basics/
 tags: git
 description: Commandes basics d'utilisation de git
 

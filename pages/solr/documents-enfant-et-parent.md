@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /solr/documents-enfant-et-parent.html
+permalink: /solr/documents-enfant-et-parent/
 tags: solr
 description: Gestion des documents enfants et parents dans solr.
 title: Documents enfant et parent
